@@ -1,0 +1,28 @@
+/* Icon */
+.icon {
+    cursor: pointer;
+  }
+  
+  /* Modal */
+  .modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+  }a
+  
+  .modal-content {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #202C45;
+    padding: 20px;
+    width: auto;
+  }
+  .modal h5,h4{
+    color: #fff;
+  }
